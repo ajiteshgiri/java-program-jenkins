@@ -6,6 +6,7 @@ class Test{
 		System.out.println("Hello ajitesh");
 		System.out.println("jenkins from java program");
 		System.out.println(new Date());
+		System.out.println("Hello ajitesh jenkins start time now...");
 
 
 	}
