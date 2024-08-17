@@ -8,6 +8,7 @@ class Test{
 		System.out.println(new Date());
 		System.out.println("Hello ajitesh jenkins start time now...");
 
-
+		Student std = new Student();
+		std.sayHello();
 	}
 }
